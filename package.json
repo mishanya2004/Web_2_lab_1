@@ -1,0 +1,28 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Lab1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mykhailo Kril",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "eslint": "^8.35.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishanya2004/Web_2_lab_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mishanya2004/Web_2_lab_1/issues"
+  },
+  "homepage": "https://github.com/mishanya2004/Web_2_lab_1#readme"
+}
